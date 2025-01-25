@@ -3,7 +3,7 @@
 He is a graduate student at University of Illinois Urbana-Champaign.
 
 #### Email
-fanc3@illinois.edu
+[fanc3@illinois.edu](fanc3@illinois.edu)
 
 #### Education
 M.S., Mechanical Engineering, University of Illinois Urbana-Champaign, 2024 - 2026 (expected).\
